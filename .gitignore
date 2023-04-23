@@ -1,0 +1,5 @@
+# so it won't expose all of the secret sensitive information to the world
+.env
+
+# to not include the installed packages
+node_modules
